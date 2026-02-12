@@ -1,7 +1,6 @@
 ## Author
-Graceful Mulenga  
-MSc Candidate  
-Botswana International University of Science and Technology (BIUST)
+
+
  MSc Thesis Project: Predictive Models for Breast Cancer Brain Metastasis: An Integration of Neuroimaging and Genomics Data for Better Clinical Practice
 
 
